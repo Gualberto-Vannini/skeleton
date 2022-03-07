@@ -25,7 +25,7 @@ To handle better the Sage Area (in particular better Android experience)
 - react-native-safe-area-context
 
 
-For enabling the [SVG]
+For enabling the SVG
 - react-native-svg 
 - react-native-svg-transformer
 

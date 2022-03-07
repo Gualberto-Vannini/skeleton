@@ -1,5 +1,8 @@
 # App Skeleton App
 
+https://user-images.githubusercontent.com/22340454/157072812-1ec73324-a8f8-493c-8aaa-f4f333e4dbbc.mp4
+
+
 This is a practical ready-to-go app skeleton. 
 The propose for this repository is:
     - Having always a fresh app skeleton available

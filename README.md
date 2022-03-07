@@ -5,8 +5,8 @@ https://user-images.githubusercontent.com/22340454/157072812-1ec73324-a8f8-493c-
 
 This is a practical ready-to-go app skeleton. 
 The propose for this repository is:
-    - Having always a fresh app skeleton available
-    - Possibilty to test different strategy with a clean app with no errors and totally upgraded. 
+   - Having always a fresh app skeleton available
+   - Possibilty to test different strategy with a clean app with no errors and totally upgraded. 
 
 
 ## Packages installed:

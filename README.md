@@ -5,6 +5,27 @@ The propose for this repository is:
     - Having always a fresh app skeleton available
     - Possibilty to test different strategy with a clean app with no errors and totally upgraded. 
 
+
+## Packages installed:
+
+For the [Bottom Tabs Navigator](https://reactnavigation.org/docs/bottom-tab-navigator/):
+- @react-navigation/bottom-tabs
+
+For the [Stack Navigator](https://reactnavigation.org/docs/stack-navigator/)
+- @react-navigation/stack
+- react-native-gesture-handler
+
+For the [Navigation](https://reactnavigation.org/docs/getting-started/)
+- @react-navigation/native
+
+To handle better the Sage Area (in particular better Android experience)
+- react-native-safe-area-context
+
+
+For enabling the [SVG]
+- react-native-svg 
+- react-native-svg-transformer
+
 ## Tools
 
 2. [Xcode](#xcode-setup)
@@ -48,10 +69,3 @@ For debugging iOS or Android specific bugs, it can be useful to run the app from
 
 For debugging, we use [React Native Debugger](https://github.com/jhen0409/react-native-debugger). After this has been installed, open the debugger and run the app. You should see the JavaScript logs appear in the debugger console. You can execute and runs using the shortcut `⌘ + D`.
 
-## Testing
-
-Our linter runs on a pre-commit hook and both linting and testing run when pull requests are created as part of our continuous integration with GitHub Actions.
-
-To run the linter manually run
-
-`yarn lint`.
